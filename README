@@ -1,0 +1,10 @@
+Advent of Code in A64 assembly for Mac OS
+
+Assemble:
+
+  cd 2024
+  make 01
+
+Run:
+
+  ./01 < input
